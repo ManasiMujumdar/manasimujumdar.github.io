@@ -1,85 +1,46 @@
----
+ 
 permalink: /about/
-title: "About"
-excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
-layouts_gallery:
-  - url: /assets/images/mm-layout-splash.png
-    image_path: /assets/images/mm-layout-splash.png
-    alt: "splash layout example"
-  - url: /assets/images/mm-layout-single-meta.png
-    image_path: /assets/images/mm-layout-single-meta.png
-    alt: "single layout with comments and related posts"
-  - url: /assets/images/mm-layout-archive.png
-    image_path: /assets/images/mm-layout-archive.png
-    alt: "archive layout example"
-last_modified_at: 2022-05-27T11:59:26-04:00
-toc: true
----
+title: "About Me"
+excerpt: "A little bit about me, what I enjoy, and what I'm curious about."
+author_profile: true
+Hi, I'm Manasi.
+I’m someone who is endlessly curious about the world around me. I love reading, writing, trekking, and discovering new places basically, anything that gives me a new perspective or takes me somewhere I haven’t been before.
+I’ve always enjoyed getting lost in a good book, putting thoughts into words, and finding stories in the most unexpected places. Trekking is another favourite there’s something about being outdoors, away from the noise, that makes me slow down and appreciate the little things.
+I’m also currently pursuing my MBA, which has given me plenty of opportunities to explore my interests in technology, business, product, and strategy. I enjoy learning about how things work, experimenting with new ideas, and occasionally turning those ideas into something I can build.
+This website is a little bit of all of that things I’m learning, things I’m building, things I’m writing about, and things I’m simply curious about.
+What I’m Interested In
+Product & Strategy
+I like working at the intersection of customer needs, business objectives, and technology.
+I’m drawn to product problems where there isn't an obvious answer understanding users, defining the right problem, prioritizing opportunities, and figuring out how technology can create a meaningful advantage.
+AI & Emerging Technology
+AI is one of the spaces I’m most curious about because of its potential to change how products and businesses work.
+I’m particularly interested in the product and strategic implications of AI where it creates genuine value, how AI-native experiences should be designed, and how businesses can meaningfully incorporate emerging technologies.
+I also enjoy experimenting with AI tools and building small projects to learn by doing.
+Giving Back
+Beyond academics and work, social impact and giving back to the community have been an important part of my journey.
+During college, I had the opportunity to be involved in various activities and initiatives that allowed me to contribute to the community and work closely with people from different backgrounds. These experiences taught me that even small, consistent efforts can create a meaningful difference.
+My experience at Walmart also gave me the opportunity to be part of CSR initiatives, where I got to see how organisations can use their resources and reach to create impact beyond their core business. Being involved in these initiatives made me appreciate the role that businesses can play in addressing social and community needs.
+These experiences have shaped my perspective on empathy, responsibility, and meaningful impact. They have also reminded me that while careers and achievements are important, there is something deeply fulfilling about using your time and skills to make someone else's day, experience, or life a little better.
+What You'll Find Here
+This website is a collection of things I’m learning, building, and thinking about.
+You’ll find:
+•	Projects where I experiment with technology, AI, and product ideas
+•	Case studies & analyses where I explore business and technology problems
+•	Writing on product, strategy, AI, and things I find interesting
+•	Experiments that help me learn by building
+•	Ideas that I’m still figuring out
+Not everything here is a polished “finished project.” Some of it is deliberately exploratory.
+Beyond Work
+When I’m not thinking about technology or business, you’ll probably find me with a book, writing something, planning a trek, or looking for somewhere new to explore.
+I enjoy conversations that make me think, places that make me pause, and experiences that give me a story worth telling.
+I’m always learning something new sometimes intentionally, and sometimes completely by accident.
+ 
+Let's Connect
+If you’re interested in product, technology, AI, strategy, books, writing, trekking, or simply exchanging ideas, I’d be happy to connect.
+LinkedIn{: .btn .btn--primary}
+Medium{: .btn .btn--info}
 
-Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your personal site, blog, or portfolio on GitHub or self-hosting on your own server. As the name implies --- styling is purposely minimalistic to be enhanced and customized by you :smile:.
 
-{% include gallery id="layouts_gallery" caption="Examples of included layouts `splash`, `single`, and `archive`." %}
 
-[Install the Theme]({{ "/docs/quick-start-guide/" | relative_url }}){: .btn .btn--success .btn--large}
 
-## Notable Features
-
-- Bundled as a "theme gem" for easier install/upgrading.
-- Compatible with GitHub Pages.
-- Support for Jekyll's built-in Sass/SCSS preprocessor.
-- Nine different skins (color variations).
-- Several responsive layout options (single, archive index, search, splash, and paginated home page).
-- Optimized for search engines with support for [Twitter Cards](https://dev.twitter.com/cards/overview) and [Open Graph](http://ogp.me/) data
-- Optional [header images](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#headers), [custom sidebars](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#sidebars), [table of contents](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#table-of-contents), [galleries](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#gallery), related posts, [breadcrumb links](https://mmistakes.github.io/minimal-mistakes/docs/configuration/#breadcrumb-navigation-beta), [navigation lists](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#navigation-list), and more.
-- Commenting support (powered by [Disqus](https://disqus.com/), [Facebook](https://developers.facebook.com/docs/plugins/comments), [Discourse](https://www.discourse.org/), [utterances](https://utteranc.es/), [giscus](https://giscus.app/), static-based via [Staticman v1 and v2](https://staticman.net/), and custom).
-- [Google Analytics](https://www.google.com/analytics/) support.
-- UI localized text in English (default), Arabic (عربي), Brazilian Portuguese (Português brasileiro), Bulgarian, Catalan, Chinese, Czech, Danish, Dutch, Finnish, French (Français), German (Deutsch), Greek, Hebrew, Hindi (हिंदी), Hungarian, Indonesian, Irish (Gaeilge), Italian (Italiano), Japanese, Kiswahili, Korean, Malayalam, Myanmar (Burmese), Nepali (Nepalese), Norwegian (Norsk), Persian (فارسی), Polish, Punjabi (ਪੰਜਾਬੀ), Romanian, Russian, Slovak, Spanish (Español), Swedish, Thai, Turkish (Türkçe), and Vietnamese.
-
-## Demo Pages
-
-| Name                                        | Description                                           |
-| ------------------------------------------- | ----------------------------------------------------- |
-| [Post with Header Image][header-image-post] | A post with a large header image. |
-| [HTML Tags and Formatting Post][html-tags-post] | A variety of common markup showing how the theme styles them. |
-| [Syntax Highlighting Post][syntax-post] | Post displaying highlighted code. |
-| [Post with a Gallery][gallery-post] | A post showing several images wrapped in `<figure>` elements. |
-| [Sample Collection Page][sample-collection] | Single page from a collection. |
-| [Categories Archive][categories-archive] | Posts grouped by category. |
-| [Tags Archive][tags-archive] | Posts grouped by tag. |
-
-For even more demo pages check the [posts archive][year-archive].
-
-[header-image-post]: {{ "" | relative_url }}{% post_url 2012-03-15-layout-header-image-text-readability %}
-[gallery-post]: {{ "" | relative_url }}{% post_url 2010-09-09-post-gallery %}
-[html-tags-post]: {{ "" | relative_url }}{% post_url 2013-01-11-markup-html-tags-and-formatting %}
-[syntax-post]: {{ "" | relative_url }}{% post_url 2013-08-16-markup-syntax-highlighting %}
-[sample-collection]: {{ "/recipes/chocolate-chip-cookies/" | relative_url }}
-[categories-archive]: {{ "/categories/" | relative_url }}
-[tags-archive]: {{ "/tags/" | relative_url }}
-[year-archive]: {{ "/year-archive/" | relative_url }}
-
----
-
-## Credits
-
-### Icons + Demo Images:
-
-- [The Noun Project](https://thenounproject.com) -- Garrett Knoll, Arthur Shlain, and [tracy tam](https://thenounproject.com/tracytam)
-- [Font Awesome](http://fontawesome.io/)
-- [Unsplash](https://unsplash.com/)
-
-### Other:
-
-- [Jekyll](https://jekyllrb.com/)
-- [jQuery](https://jquery.com/)
-- [Susy](http://susy.oddbird.net/)
-- [Breakpoint](http://breakpoint-sass.com/)
-- [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/)
-- [FitVids.JS](http://fitvidsjs.com/)
-- Greedy Navigation - [lukejacksonn](https://codepen.io/lukejacksonn/pen/PwmwWV)
-- [jQuery Smooth Scroll](https://github.com/kswedberg/jquery-smooth-scroll)
-- [Lunr](http://lunrjs.com)
-
----
-
-Minimal Mistakes is designed, developed, and maintained by Michael Rose. Just another boring, tattooed, designer from Buffalo New York.
+![Uploading image.png…]()
