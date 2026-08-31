@@ -1,8 +1,11 @@
  
+---
 permalink: /about/
 title: "About Me"
 excerpt: "A little bit about me, what I enjoy, and what I'm curious about."
+layout: single
 author_profile: true
+---
 Hi, I'm Manasi.
 I’m someone who is endlessly curious about the world around me. I love reading, writing, trekking, and discovering new places basically, anything that gives me a new perspective or takes me somewhere I haven’t been before.
 I’ve always enjoyed getting lost in a good book, putting thoughts into words, and finding stories in the most unexpected places. Trekking is another favourite there’s something about being outdoors, away from the noise, that makes me slow down and appreciate the little things.
